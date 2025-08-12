@@ -1,0 +1,22 @@
+LabDIONattyOrNot
+Título do Projeto
+Cidade Cyberpunk Noturna
+
+Descrição do Projeto
+Este projeto tem como objetivo explorar o potencial da IA Generativa na criação de imagens hiper-realistas. Para o desafio, gerei uma cena detalhada de uma rua em uma cidade cyberpunk à noite, com o intuito de simular uma fotografia de alta qualidade.
+
+Tecnologias Utilizadas
+IA Generativa de Imagens (modelo de exemplo)
+
+Prompts de texto
+
+Processo de Criação
+Para obter a imagem, utilizei o seguinte prompt detalhado:
+
+A hyper-realistic cyberpunk city street at night, wet with rain, reflecting the neon signs that illuminate the bustling scene. Towering skyscrapers dominate the background, adorned with glowing advertisements and intricate holographic displays featuring futuristic products and abstract patterns. The street is filled with a diverse crowd of people, some holding transparent umbrellas, dressed in a mix of worn, practical clothing and vibrant, augmented fashion with integrated LED elements. One person in the foreground wears a trench coat with subtle glowing lines and has a visible cybernetic arm. Another has brightly colored, spiked hair and a jacket with an embroidered logo of a stylized dragon. A food stall emits steam, its sign displaying Japanese characters in neon. Several flying vehicles with soft, glowing headlights and taillights are visible in the mid-ground, navigating between the buildings. The cinematic lighting creates dramatic shadows and highlights, with the primary light sources being the neon signs, vehicle lights, and the reflective wet ground. The air is slightly hazy, with faint streaks of light from the rain catching the glow. The perspective is slightly low-angle, looking down the street, emphasizing the towering architecture.
+
+O prompt foi construído para incluir elementos visuais específicos (chuva, luzes de neon, reflexos) e detalhes sobre os personagens e a ambientação, buscando um resultado com a maior fidelidade e profundidade possível.
+
+Resultados
+A imagem gerada representa a cena descrita no prompt com grande detalhe e um alto nível de realismo. As luzes e os reflexos na rua molhada criam uma atmosfera imersiva, enquanto a diversidade de personagens e elementos futuristas torna a cena crível.
+
